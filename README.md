@@ -7,7 +7,7 @@ A simple program made for students that helps you to visualise a simple / double
 - Installing <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server">Live Preview</a> extension on VSCode
 - Open the index.html with <a href="https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server">Live Preview</a> 
 - Do the modification you want in the ```main.c```
-- Use the make file to refresh the data with ``` Make start ```
+- Use the makefile to refresh the data with ``` Make start ```
 
 ## Libraries
 
