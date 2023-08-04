@@ -1,0 +1,38 @@
+{
+	"0x55f315307360": {
+		"Label": "Fabien",
+		"Next": "0x55f3153072a0"
+	},
+	"0x55f3153072a0": {
+		"Label": "Holberton",
+		"Next": "0x55f315307380"
+	},
+	"0x55f315307380": {
+		"Label": "Yoan",
+		"Next": "0x55f3153072c0"
+	},
+	"0x55f3153072c0": {
+		"Label": "School",
+		"Next": "0x55f3153072e0"
+	},
+	"0x55f3153072e0": {
+		"Label": "Is",
+		"Next": "0x55f315307300"
+	},
+	"0x55f315307300": {
+		"Label": "A great school",
+		"Next": "0x55f315307320"
+	},
+	"0x55f315307320": {
+		"Label": "Hello",
+		"Next": "0x55f315307340"
+	},
+	"0x55f315307340": {
+		"Label": "Test",
+		"Next": "0x55f3153073a0"
+	},
+	"0x55f3153073a0": {
+		"Label": "Hugo SWE",
+		"Next": "(nil)"
+	}
+}
